@@ -1,0 +1,8 @@
+# ignore node modules
+node_modules
+
+# Ignore built ts files
+dist/**/*
+
+# ignore private keys
+src/.env
